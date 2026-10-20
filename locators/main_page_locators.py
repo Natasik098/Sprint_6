@@ -2,8 +2,6 @@ from selenium.webdriver.common.by import By
 
 class MainPageLocators:
 
-    URL = "https://qa-scooter.praktikum-services.ru/"
-
     COOKIE_BUTTON = (By.ID, "rcc-confirm-button")
 #Вопросы FAQ
     FAQ_QUESTIONS = (By.XPATH, "//div[@class='accordion__button']")

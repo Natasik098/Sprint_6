@@ -1,0 +1,1 @@
+{"total":2,"items":[{"uid":"c68aeea53fbc15cfeed5baff76a89fa9","name":"Parent_suite_Домашняя страница","statistic":{"failed":0,"broken":0,"skipped":0,"passed":10,"unknown":0,"total":10}},{"uid":"b9fcdc3742911659d81d479e14441907","name":"Parent_suite_Создание заказа","statistic":{"failed":0,"broken":0,"skipped":0,"passed":2,"unknown":0,"total":2}}]}
